@@ -112,3 +112,10 @@ Response:
         ]
     }
 }
+```
+### How to Run
+- Clone this repository.
+- Open the project in your favorite IDE.
+- Run the QuizAppApplication.java file to start the Spring Boot application.
+- Access the H2 database at http://localhost:8080/h2-console (Default credentials: sa).
+- Use Postman or any other API client to
